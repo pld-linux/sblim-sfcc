@@ -2,7 +2,7 @@ Summary:	Small Footprint CIM Client Library
 Summary(pl.UTF-8):	Biblioteka kliencka CIM o małym narzucie
 Name:		sblim-sfcc
 Version:	2.2.4
-Release:	2
+Release:	3
 License:	Eclipse Public License v1.0
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/sblim/%{name}-%{version}.tar.bz2
